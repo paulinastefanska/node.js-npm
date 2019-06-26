@@ -1,0 +1,16 @@
+{
+  "name": "node.js-npm",
+  "version": "1.0.0",
+  "description": "test package.json to learn npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "learn",
+    "node.js",
+    "npm"
+  ],
+  "author": "Paulina",
+  "license": "ISC"
+}
